@@ -1,0 +1,56 @@
+.Todo{
+    Width:600px;
+    background-color: black;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.mariofoto{
+    display: inline-block;
+}
+.Burgerfoto{
+    width:260px;
+    object-fit:cover;
+    height: 350px;
+    display: inline-block;
+    vertical-align: top;
+}
+.Description{
+    display: inline-block;
+    width:330px;
+    vertical-align:bottom;
+
+}
+.Stats{
+    Color:red;
+    font-size:40px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom:0;
+}
+.Pastillas{
+    Color:white;
+    font-size:38px;
+    font-weight: bold;
+    margin-top: 0;
+}
+.viejo{
+    Color:white;  
+}
+.Click{
+    Width:600px;
+}
+
+.como{
+    color: blue;
+    font-size:40px;
+    font-weight: bold;
+    margin-top: 0;
+    padding-left: 50px;
+    margin-bottom: 0;
+}
+
+.aqui{
+font-size: 45px;
+padding-left: 80px;
+}
